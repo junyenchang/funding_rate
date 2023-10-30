@@ -2,4 +2,4 @@
 
 在test.py上執行
 
-延伸自 https://github.com/aoki-h-jp/funding-rate-arbitrage
+主要內容皆取自 https://github.com/aoki-h-jp/funding-rate-arbitrage
